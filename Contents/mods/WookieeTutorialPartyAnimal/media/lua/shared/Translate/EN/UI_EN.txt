@@ -1,0 +1,58 @@
+UI_EN = {
+
+    UI_optionscreen_binding_WTPA_sayHelloKnoxCountry = "Say Hello, Knox Country",
+
+    UI_WTPA_shortName = "Wookiee Tutorial: Party Animal",
+
+    UI_WTPA_helloKnoxCountry = "Hello, Knox Country!",
+
+    UI_WTPA_exampleOption = "Party Animal Keyboard Shortcut",
+    UI_WTPA_exampleOption_tooltip = "This tooltip appears when you mouseover the example mod option. Unselecting this example option will stop the keyboard shortcut from working.",
+
+    UI_WTPA_randomizePartyComments = "Randomize Party Animal Comments",
+    UI_WTPA_randomizePartyComments_tooltip = "Randomize the order in which Party Animal comments are spoken. By default, you will simply say them in the same order on a loop.",\
+
+    UI_WTPA_frequencyOfPartyTalk = "Frequency of Party Talk",
+    UI_WTPA_frequencyOfPartyTalk_tooltip = "How often would you like to express your love of partying?",
+
+    UI_WTPA_traits_PartyAnimal = "Party Animal",
+
+    UI_WTPA_traits_PartyAnimal_speak = "Party On!",
+    
+    UI_WTPA_traits_PartyAnimal_satisfied = "Ah, that's the stuff.",
+
+    UI_WTPA_traits_PartyAnimal_frequency_2 = "Every 10 Minutes",
+    UI_WTPA_traits_PartyAnimal_frequency_3 = "Every 20 Minutes",
+    UI_WTPA_traits_PartyAnimal_frequency_4 = "Every 30 Minutes",
+    UI_WTPA_traits_PartyAnimal_frequency_5 = "Every 40 Minutes",
+    UI_WTPA_traits_PartyAnimal_frequency_6 = "Every 50 Minutes",
+    UI_WTPA_traits_PartyAnimal_frequency_7 = "Every 60 Minutes",
+    UI_WTPA_traits_PartyAnimal_frequency_8 = "Every 70 Minutes",
+    UI_WTPA_traits_PartyAnimal_frequency_9 = "Every 80 Minutes",
+    UI_WTPA_traits_PartyAnimal_frequency_10 = "Every 90 Minutes",
+    UI_WTPA_traits_PartyAnimal_frequency_11 = "Every 100 Minutes",
+    UI_WTPA_traits_PartyAnimal_frequency_12 = "Every 110 Minutes",
+    UI_WTPA_traits_PartyAnimal_frequency_13 = "Every 120 Minutes",
+
+    UI_WTPA_traits_PartyAnimal_partyOn_1 = "Party on, Wayne!",
+    UI_WTPA_traits_PartyAnimal_partyOn_2 = "Party on, Garth!",
+    UI_WTPA_traits_PartyAnimal_partyOn_3 = "Yeah, let's $%#@in' RAGE! Or . . . fly with the seabirds, or whatever.",
+    UI_WTPA_traits_PartyAnimal_partyOn_4 = "Time to fight for my right to party!",
+    UI_WTPA_traits_PartyAnimal_partyOn_5 = "Swell party, where's the whiskey?",
+    UI_WTPA_traits_PartyAnimal_partyOn_6 = "Toga! Toga! Toga!",
+    UI_WTPA_traits_PartyAnimal_partyOn_7 = "Welcome to the party!",
+    UI_WTPA_traits_PartyAnimal_partyOn_8 = "We gon' party like it's my birthday!",
+    UI_WTPA_traits_PartyAnimal_partyOn_9 = "Here's to the nights I don't remember and the friends I won't forget!",
+    UI_WTPA_traits_PartyAnimal_partyOn_10 = "I hate to advocate drugs, alcohol, violence, or insanity to anyone, but they've always worked for me.",
+    UI_WTPA_traits_PartyAnimal_partyOn_11 = "Never miss a party . . . good for the nerves. Like celery.",
+    UI_WTPA_traits_PartyAnimal_partyOn_12 = "It's party time!",
+    UI_WTPA_traits_PartyAnimal_partyOn_13 = "All worries are less with wine.",
+    UI_WTPA_traits_PartyAnimal_partyOn_14 = "Going so soon? I wouldn't hear of it. Why my little party's just beginning.",
+    UI_WTPA_traits_PartyAnimal_partyOn_15 = "Eat. Party. Sleep. Repeat.",
+    UI_WTPA_traits_PartyAnimal_partyOn_16 = "I got a feeling that tonight's gonna be a good night.",
+    UI_WTPA_traits_PartyAnimal_partyOn_17 = "The club can't even handle me right now.",
+    UI_WTPA_traits_PartyAnimal_partyOn_18 = "‘Owooooooooooooooooooooooo!’",
+    UI_WTPA_traits_PartyAnimal_partyOn_19 = "I smoke two joints in the morning; I smoke two joints at night; I smoke two joints in the afternoon; it makes me feel all right.",
+    UI_WTPA_traits_PartyAnimal_partyOn_20 = "I smoke two joints in time of peace, and two in time of war. I smoke two joints before I smoke two joints, and then I smoke two more."
+
+}

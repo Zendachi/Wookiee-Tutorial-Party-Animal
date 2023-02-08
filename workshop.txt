@@ -1,0 +1,47 @@
+version=1   
+
+
+title=************WORKSHOP ITEM TITLE GOES HERE! (An ID will be generated on the line below upon submission to Steam. Spaces above and below this line are unnecessary.*************
+
+
+description=[h1]Wookiee Tutorial: Party Animal[/h1]
+description=
+description=This is an example template for creating mods that revolve around manipulating the functions and fields of Lua tables (which is to say the sort of mods that do not add new models, animations, sounds, or maps to the game).
+description=
+description=This mod demonstrates the basic directory structure for a workshop item featuring a single mod named Wookiee Tutorial: Party Animal and identified in an .ini file as WookieeTutorialPartyAnimal. A mod with this sort of format could be used to add unique game functionality, such as new context options, new UI panels, new shortcuts, new skills, new traits, and more.
+description=
+description=This mod adds one example trait called Party Animal, with an accompanying icon and some basic functionality that is tied to having the trait. This Workshop Item is not meant to be used on servers; it is intended to help new modders learn better practices and some useful tricks for setting up a very basic mod of this sort.
+description=
+description=This mod also demonstrates the use of a local module as a container for various fields and functions that achieve some sort of collective purpose.
+description=
+description=The code is intended to be read by modders who download it. It has many comments that explain how various aspects of the mod work together. After subscribing, you will find this mod in the same Steam folder as your Zomboid installation:
+description=
+description=[B]Steam\steamapps\workshop\content\108600\2929985581[/B]
+description=
+description=[h2]How to Add This Mod to a New Single-Player Game[/h2]
+description=
+description=Simply launch your game, immediately enter the MODS menu, enable Wookiee Tutorial: Party Animal, and start a new single player game. Mods enabled in MODS will be added automatically.
+description=
+description=[h2]How to Add This Mod to an Existing Single-Player Game[/h2]
+description=
+description=Launch your game, click LOAD, MORE, Choose Mods, and enable Wookiee Tutorial: Party Animal.
+description=
+description=[h2]How to Add This Mod to an Online Game[/h2]
+description=
+description=Launch your game, click HOST, Manage Settings, Edit Selected Settings, Steam Workshop, and find Wookiee Tutorial: Party Animal in the small dropdown below the list of active items.
+description=
+description=[h2]Using Mod Options[/h2]
+description=
+description=[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2169435993]Mod Options[/url] is itself a mod, and, as such, you must subscribe to it and add it to your server via the Workshop Items tab.
+description=
+description=[h3]Need More Help?[/h3]
+description=
+description=Many better modders than me lurk in the #mod_discussion channel of [url=https://discord.com/invite/theindiestone]the Project Zomboid Discord[/url] (and they are usually happy to help new people who get stuck). You are welcome to ask for advice in that channel whenever you get lost in the sauce! I may even be the one who replies, if I happen to be around. You are welcome to try pinging me directly, but I obviously cannot promise to be available.
+description=
+description=[h3]Like This Mod?[/h3]
+description=
+description=Feel free to check out [url=https://steamcommunity.com/id/zendachi/myworkshopfiles/?appid=108600]my other stuff on the workshop[/url]!
+description=
+description=[url=https://ko-fi.com/burryaga][img]https://storage.ko-fi.com/cdn/brandasset/kofi_button_dark.png[/img][/url]
+tags=Build 41;Language/Translation;Misc;Multiplayer;Silly/Fun
+visibility=public
