@@ -24,14 +24,14 @@ In order to use this repository to make a new mod, please follow these steps:
 6. Edit **workshop.txt** and **mod.info** files.
     * These should reflect your new *item name*, *mod name*, and *mod ID*. 
     * Do NOT add an id= line in workshop.txt with your own made-up number.
-    ** Steam generates your id automatically when you first upload.
+    * * Steam generates your id automatically when you first upload.
     * Change the descriptions, and add a **require** tag in *mod.info* if necessary.
 7. Update your mod's **poster.png** and your workshop item's **preview.png**.
     * _Be **absolutely certain** that you **flatten your images** and **export them at the same size as the ones in this template**._
 8. Launch Project Zomboid and select:
     * WORKSHOP
     * Create or update items
-    * *Your Workshop Item Name*
+      * Your Workshop Item Name*
     * NEXT
     * NEXT (again)
     * Upload to Steam Workshop now!
