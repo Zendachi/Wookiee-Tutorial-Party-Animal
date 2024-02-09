@@ -23,9 +23,10 @@ In order to use this repository to make a new mod, please follow these steps:
     * Both names and IDs allow the use of spaces, but using spaces in IDs will make people's server.ini files a little harder for other players to understand and edit, so I do not recommend doing that.
 6. Edit **workshop.txt** and **mod.info** files.
     * These should reflect your new *item name*, *mod name*, and *mod ID*. 
-    * Do NOT add an id= line in workshop.txt with your own made-up number.
-      * Steam generates your id automatically when you first upload.
-    * Change the descriptions, and add a **require** tag in *mod.info* if necessary.
+    * Do NOT add an **id=** line in workshop.txt with your own made-up number.
+      * Steam generates your **id** automatically when you first upload.
+    * Change the descriptions, and add a **require=** line in *mod.info* if necessary.
+      * **require=modIdOne,modIdTwo,modIdThree,etCetera**
 7. Update your mod's **poster.png** and your workshop item's **preview.png**.
     * _Be **absolutely certain** that you **flatten your images** and **export them at the same size as the ones in this template**._
 8. Launch Project Zomboid and select:
