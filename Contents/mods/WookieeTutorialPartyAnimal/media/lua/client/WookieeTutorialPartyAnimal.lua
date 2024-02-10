@@ -9,7 +9,7 @@
 -- Your module can have any name. WTPA means Wookiee Tutorial: Party Animal.
 -- You could rename WTPA as PartyAnimal if you do not like abbreviations.
 
-WTPA = {}
+local WTPA = {}
 
 -- If you believe your table needs to be global in order for your mod to 
 -- accomplish its goals, remove the "local " prefix above and remove the
