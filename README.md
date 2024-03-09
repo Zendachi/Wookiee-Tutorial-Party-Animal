@@ -2,7 +2,7 @@
 
 This repository represents a single Project Zomboid mod (called *Wookiee Tutorial: Party Animal*) packaged for distribution as an item on the Steam Workshop (which I generally reference as *the workshop* below).
 
-Please feel free to [clone this repository](https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository) as a starting point for making your own Project Zomboid Workshop Items.
+Please feel free to [clone this repository](https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository#_git_cloning) as a starting point for making your own Project Zomboid Workshop Items.
 
 ## On Workshop Items and Mods
 
